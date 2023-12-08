@@ -1,0 +1,13 @@
+# ninja log v5
+1	1174	7237487998404398	CMakeFiles/person_s_age.dir/main.cpp.obj	7f27fc9379ff8fe9
+1178	1373	7237488000332447	person_s_age.exe	1fb3a0306db3ca0b
+5	808	7237488391562203	CMakeFiles/person_s_age.dir/main.cpp.obj	7f27fc9379ff8fe9
+808	924	7237488392681497	person_s_age.exe	1fb3a0306db3ca0b
+6	793	7237488861985334	CMakeFiles/person_s_age.dir/main.cpp.obj	7f27fc9379ff8fe9
+793	930	7237488863284532	person_s_age.exe	1fb3a0306db3ca0b
+9	1388	7237496358461905	CMakeFiles/person_s_age.dir/main.cpp.obj	7f27fc9379ff8fe9
+1388	1558	7237496360074457	person_s_age.exe	1fb3a0306db3ca0b
+5	781	7237497732895101	CMakeFiles/person_s_age.dir/main.cpp.obj	7f27fc9379ff8fe9
+782	916	7237497734204307	person_s_age.exe	1fb3a0306db3ca0b
+6	834	7237498581399590	CMakeFiles/person_s_age.dir/main.cpp.obj	7f27fc9379ff8fe9
+838	960	7237498582589065	person_s_age.exe	1fb3a0306db3ca0b
