@@ -4,4 +4,4 @@ project(person_s_age)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(person_s_age main.cpp
-        Huma'n.h)
+        Human.h)
