@@ -1,7 +1,7 @@
 
 
-#ifndef PERSON_S_AGE_HUMA_N_H
-#define PERSON_S_AGE_HUMA_N_H
+#ifndef PERSON_S_AGE_HUMAN_H
+#define PERSON_S_AGE_HUMAN_H
 
 #include "iostream"
 #include "string"
@@ -45,4 +45,4 @@ public:
 };
 
 
-#endif //PERSON_S_AGE_HUMA_N_H
+#endif //PERSON_S_AGE_HUMAN_H

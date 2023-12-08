@@ -7,7 +7,7 @@
 
 
 #include <iostream>
-#include "Huma'n.h"
+#include "Human.h"
 
 
 short ChengAge();
