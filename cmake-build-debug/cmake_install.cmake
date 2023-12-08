@@ -1,4 +1,4 @@
-# Install script for directory: P:/programing/home_works/structures/person's_age
+# Install script for directory: P:/programing/home_works/structures/persons_age
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "P:/programing/home_works/structures/person's_age/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "P:/programing/home_works/structures/persons_age/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
